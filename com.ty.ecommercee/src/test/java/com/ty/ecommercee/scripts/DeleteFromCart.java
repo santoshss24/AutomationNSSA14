@@ -7,7 +7,7 @@ public class DeleteFromCart
 	@Test
 	public void delete()
 	{
-		
+		System.out.println("nssa 14");
 	}
 
 }
